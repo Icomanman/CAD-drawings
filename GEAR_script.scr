@@ -1,0 +1,14 @@
+rotate
+g
+1
+
+0,0
+5
+rotate
+g
+2
+
+0,1.8
+-10
+
+rscript
